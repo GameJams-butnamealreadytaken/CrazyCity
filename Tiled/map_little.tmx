@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.4" tiledversion="1.4.1" orientation="orthogonal" renderorder="right-down" width="31" height="20" tilewidth="16" tileheight="16" infinite="0" nextlayerid="4" nextobjectid="1">
+ <tileset firstgid="1" source="urbanpack.tsx"/>
+ <layer id="2" name="Background" width="31" height="20">
+  <data encoding="base64" compression="zstd">
+   KLUv/WCwCPUKAELLIy1QVUABcEHp3h/I+jxsu1m6uI1aThFMzNs3mgEqJvODXTVcXR9SkqYwAGkK7jwfHu+YwWSmCopPqHxYCujD8XSuz+ZqKy6XnUVSchbNVzNyFYJCAsp38pkc3CDj4hi3oB4Y7vAG6kbgBQQf+AJJ9NFDIiEHmV76Yj6Y74Vj4xoA7WXtWe1VDzj1FpYSEYc4ZaDh0QpysUUPUIIFVCYGlaQa6AKT+5Hjb+hlSz/S8fsR+Xdu3f/oM5ibZp2ZafV+5mNmvMArXFiPKYkX/rW5P4FgXc5ev/GmiOEsC7wndwvkIn5p7p/OXbs/BTEJsSv6G1i06Kw67kxfjt7YnsTC+sf6cvRuN0+gve/DWnZWL6FX907XqB3e/Qkh3MsTthuK/+CcuD1myXYbgL1kfnRedvm5k7XD1jLE30EjFn/Rm+wt9zMCv5Qjkb/zK0p473FNSWpnx6jxaSuRTRAF
+  </data>
+ </layer>
+ <layer id="3" name="Decors" width="31" height="20">
+  <data encoding="base64" compression="zstd">
+   KLUv/WCwCHUIAPLHGSKQDQrstbjFhAGpYN24Kpc6nWMnkJDt+mb8csLxUKj0p6j3LohcmSM1paJUUUDPFH4SN3wyRdcOe0CYnIe5+HxLDJrMlTswQ9vO4iR1dld0V9AJ+uA9NhCAfulWhfCFJ9Wklja1GRpPoLDWKUBBAoCCU1SrAAaispATG7N9qZiy4a9pU5WMgBGxL0yAxZDBmQaDm2sI3aaicbXGmHQP2L4Txakmg/fucbbll1zWHWBVN+fpx4dlBPwk22N/jWcM7XwXQKcc5aat8/ESONAbkLgnBHex2/YjWYGwuGHaPeG4i93mwcFjp71iCHjWFe4PbN+YTf2c4z6Nhxe1v8s4PN1paBhckIZpzhEnAQ==
+  </data>
+ </layer>
+</map>

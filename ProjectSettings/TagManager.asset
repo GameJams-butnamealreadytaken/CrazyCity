@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Car
+  - CarDestructor
+  - Ground
+  - Objective
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Cars
+  - Player
+  - CarDestructor
+  - Ground
+  - Objective
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Ground
+    uniqueID: 2769859739
+    locked: 0
+  - name: Player
+    uniqueID: 1947405881
+    locked: 0
+  - name: Cars
+    uniqueID: 726526041
+    locked: 0
+  - name: Objective
+    uniqueID: 3457908817
+    locked: 0
+  - name: Decors
+    uniqueID: 3918230993
+    locked: 0
